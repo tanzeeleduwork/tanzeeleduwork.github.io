@@ -1,1 +1,1 @@
-https://github.com/tanzeeleduwork/tanzeeleduwork.github.io
+https://tanzeeleduwork.github.io
